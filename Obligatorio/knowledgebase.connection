@@ -1,0 +1,11 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_Obligatorio</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio</Directory>
+	<DataFile>GX_KB_Obligatorio.mdf</DataFile>
+	<LogFile>GX_KB_Obligatorio_log.ldf</LogFile>
+	<HostName>DESKTOP-47C6NIE</HostName>
+	<DetachOnClose>False</DetachOnClose>
+</ConnectionInformation>

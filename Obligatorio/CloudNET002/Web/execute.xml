@@ -1,0 +1,40 @@
+<?xml-stylesheet type='text/xsl' href='prgs.xsl'?><Objects>
+  <Charset>UTF-8</Charset>
+  <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus18Trial/</Path>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Ubicacion</ObjName>
+    <ObjDesc>Ubicacion</ObjDesc>
+    <ObjLink>ubicacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Entrada</ObjName>
+    <ObjDesc>Entrada</ObjDesc>
+    <ObjLink>entrada.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Pais</ObjName>
+    <ObjDesc>Pais</ObjDesc>
+    <ObjLink>pais.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Espectaculo</ObjName>
+    <ObjDesc>Espectaculo</ObjDesc>
+    <ObjLink>espectaculo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>TipoEspectaculo</ObjName>
+    <ObjDesc>Tipo Espectaculo</ObjDesc>
+    <ObjLink>tipoespectaculo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWSector</ObjName>
+    <ObjDesc>Sectors</ObjDesc>
+    <ObjLink>wwsector.aspx</ObjLink>
+  </Object>
+</Objects>

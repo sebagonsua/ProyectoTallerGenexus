@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\bin\Release\net8.0\gx0050.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\obj\Release\net8.0\gx0050.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\obj\Release\net8.0\gx0050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\obj\Release\net8.0\gx0050.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\obj\Release\net8.0\gx0050.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\obj\Release\net8.0\refint\gx0050.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\gx0050\obj\Release\net8.0\ref\gx0050.dll

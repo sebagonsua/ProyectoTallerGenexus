@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\bin\Release\net8.0\developermenu.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\obj\Release\net8.0\developermenu.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\obj\Release\net8.0\developermenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\obj\Release\net8.0\developermenu.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\obj\Release\net8.0\developermenu.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\obj\Release\net8.0\refint\developermenu.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\developermenu\obj\Release\net8.0\ref\developermenu.dll

@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\bin\Release\net8.0\sector.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\obj\Release\net8.0\sector.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\obj\Release\net8.0\sector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\obj\Release\net8.0\sector.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\obj\Release\net8.0\sector.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\obj\Release\net8.0\refint\sector.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\sector\obj\Release\net8.0\ref\sector.dll

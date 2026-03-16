@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\bin\Release\net8.0\GeneXus.Programs.Common.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\obj\Release\net8.0\refint\GeneXus.Programs.Common.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\GeneXus.Programs.Common\obj\Release\net8.0\ref\GeneXus.Programs.Common.dll

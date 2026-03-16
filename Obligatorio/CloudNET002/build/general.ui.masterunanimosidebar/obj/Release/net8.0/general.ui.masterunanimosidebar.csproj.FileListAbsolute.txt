@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\general.ui.masterunanimosidebar.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\refint\general.ui.masterunanimosidebar.dll
+C:\Users\Usuario\Documents\SoftwareEngineering\ORT\TallerGenexus\Obligatorio\Obligatorio\CloudNET002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\ref\general.ui.masterunanimosidebar.dll
