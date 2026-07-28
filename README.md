@@ -1,25 +1,29 @@
-ProyectoTallerGenexus:
+# ProyectoTallerGenexus — Sistema de venta de entradas
 
-Sistema de gestión y venta de entradas para eventos desarrollado en GeneXus como parte de un proyecto académico.
+Sistema de gestión y venta de entradas para eventos, desarrollado en GeneXus como parte de un proyecto académico.
 
-Funcionalidades:
+## Funcionalidades
 
-Administración de eventos
+| Módulo | Descripción |
+|---|---|
+| Eventos | Administración de eventos |
+| Usuarios | Gestión de usuarios |
+| Entradas | Venta y control de entradas a distintos eventos |
+| Sistema | Gestión de información del sistema |
 
-Gestión de usuarios
+## Stack
 
-Venta y control de entradas
+| Capa | Tecnología |
+|---|---|
+| Framework | GeneXus |
 
-Gestión de información del sistema
+## Cómo usar el proyecto
 
-Tecnologías:
+El sistema puede importarse en GeneXus utilizando el archivo `.xpz` incluido en el repositorio.
 
-GeneXus
+## Autores
 
-Cómo usar el proyecto:
+- Jordi López-Peláez
+- Sebastián González
 
-El sistema puede importarse en GeneXus utilizando el archivo .xpz incluido en el repositorio.
-
-Autores:
-
-Jordi López-Peláez/Sebastián González
+Proyecto académico con fines educativos.
